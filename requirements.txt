@@ -2,3 +2,4 @@ gradio
 rembg
 streamlit
 Pillow
+numpy<2
