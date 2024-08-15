@@ -1,4 +1,4 @@
 gradio
 rembg
-tkinter
-flask
+streamlit
+Pillow
